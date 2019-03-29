@@ -1,0 +1,1 @@
+Fit non-congruent rectangles into a n*n square grid. What is the smallest difference possible between the areas of the largest and the smallest rectangles?
